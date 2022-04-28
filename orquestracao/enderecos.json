@@ -1,0 +1,41 @@
+{
+    "sem_frete": [
+        {
+            "localizador": 1, 
+            "endereco": "Rua dos microsservicos, Bairro dos containers",
+            "numero": 111,
+            "cep": "11111-111",
+            "cidade": "Vitória da Conquista"
+        },
+        {
+            "localizador": 2, 
+            "endereco": "Rua dos kubernetes, Bairro das composiçoes de serviço",
+            "numero": 222,
+            "cep": "22222-222",
+            "cidade": "Anagé"
+        },
+        {
+            "localizador": 3, 
+            "endereco": "Avenida das orquestrações, Bairro Python",
+            "numero": 333,
+            "cep": "33333-333",
+            "cidade": "Itambé"
+        }
+    ],
+    "com_frete": [
+        {
+            "localizador": 4, 
+            "endereco": "Rua dos monolíticos, Bairro do docker compose",
+            "numero": 444,
+            "cep": "44444-444",
+            "cidade": "Salvador"
+        },
+        {
+            "localizador": 5, 
+            "endereco": "Rua dos Scripts, Bairro Guido Van Rossum",
+            "numero": 555,
+            "cep": "55555-555",
+            "cidade": "Aracajú"
+        }
+    ]
+}

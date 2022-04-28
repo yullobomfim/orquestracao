@@ -1,0 +1,36 @@
+{
+    "eletronicos": [
+        {
+            "id": 1,
+            "descricao": "fone de ouvido",
+            "quantidade": 30,
+            "preco": 50.00
+        },
+        {
+            "id": 2,
+            "descricao": "mouse gamer",
+            "quantidade": 20,
+            "preco": 80.00
+        },
+        {
+            "id": 3,
+            "descricao": "pendrive",
+            "quantidade": 40,
+            "preco": 30.00
+        }
+    ],
+    "papelaria": [
+        {
+            "id": 1,
+            "descricao": "pacote A4",
+            "quantidade": 15,
+            "preco": 20.00
+        },
+        {
+            "id": 2,
+            "descricao": "caderson",
+            "quantidade": 40,
+            "preco": 30.00
+        }
+    ]
+}
